@@ -3,6 +3,12 @@ const client = new Discord.Client();
 const moment = require("moment");
 const fs = require("fs");
 
+client.on('ready', () => {
+    client.user.setActivity("-help ",{type: 'WATCHING'})
+
+});
+
+
 ///البكجات//
 //npm i discord.js --save//
 //npm i moment//
