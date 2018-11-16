@@ -211,7 +211,7 @@ client.on('message', message => {
 -لعرض النقاط الخاصة بك ➼ نقاطي
  
  ✧▬▬▬▬▬▬ BOT Games ▬▬▬▬▬▬✧`)
- .setFooter("By : Die#1406")
+ .setFooter("ˣᴾᴿᴼ |The_Ghast | LD#2559")
    message.channel.sendEmbed(embed)
    
    }
