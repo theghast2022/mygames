@@ -1162,4 +1162,4 @@ client.on('guildMemberAdd', member => {
 
 
           
-client.login('NTA5NzUwNjU5MzE1MTM4NTcx.DtDZkA.fT-nXzlY18jvMljeVCGWV9t9zsg');
+client.login(process.env.BOT_TOKEN);
